@@ -189,7 +189,7 @@ Track your progress with a flying plane, complete actionable steps and stay moti
 
 ---
 
-# 🏀 JumpBallFlick
+# JumpBallFlick
 
 **JumpBallFlick** is a fast-paced arcade mobile game inspired by the classic *Doodle Jump*. 
 You control a bouncing ball that continuously jumps upward, avoiding obstacles, collecting bonuses, and flicking your way through dynamic platforms.
@@ -226,7 +226,7 @@ You control a bouncing ball that continuously jumps upward, avoiding obstacles, 
 
 ---
 
-# 🏀 Discover and Travel
+# Discover and Travel
 
 **Discover and Travel** is an interactive travel discovery app that turns decision-making into an adventure.
 Spin the globe, land on a random country and uncover unique insights, culinary treasures and unforgettable experiences all in a beautifully crafted interface.
