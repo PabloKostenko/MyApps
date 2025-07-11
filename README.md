@@ -41,6 +41,8 @@ Forget calories and complicated charts. Food Balls helps you reflect on your eat
 
 ---
 
+### 🎮 Screenshots
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c8cca6c0-2f20-490e-93fc-d945ce37dee6" width="200"/>
   <img src="https://github.com/user-attachments/assets/d6ae3a67-0c57-420d-85d7-f2ac0d0bd11b" width="200"/>
@@ -66,6 +68,8 @@ Each morning, you select how you feel and the app personalizes the experience wi
 
 ---
 
+### 🎮 Screenshots
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4c1548df-8b7a-423a-b371-2ed7b10c340e" width="200"/>
   <img src="https://github.com/user-attachments/assets/59e6dfee-432b-4438-9401-8244908d0c82" width="200"/>
@@ -90,6 +94,8 @@ Each morning, you select how you feel and the app personalizes the experience wi
 Track egg production, monitor chicken health, and keep your flock well-documented with ease and style.
 
 ---
+
+### 🎮 Screenshots
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/33336fe7-6c0b-4aec-8a05-2e112373ab1b" width="150"/>
@@ -118,6 +124,8 @@ Each petal represents a day, colored by your emotion and if you felt multiple mo
 
 ---
 
+### 🎮 Screenshots
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/223e0378-0d85-4675-b8a0-164d7007e512" width="200"/>
   <img src="https://github.com/user-attachments/assets/ca0c1431-a032-48ce-88bc-b35f75abcc37" width="200"/>
@@ -144,6 +152,8 @@ Track live match stats, learn the rules of the game and test your knowledge — 
 
 ---
 
+### 🎮 Screenshots
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4894aed4-cff4-437d-8d2f-15c4ba6ee06e" width="150"/>
   <img src="https://github.com/user-attachments/assets/f50bfd19-f5b7-4520-b107-a804b4ec9eba" width="150"/>
@@ -169,6 +179,8 @@ Track live match stats, learn the rules of the game and test your knowledge — 
 Track your progress with a flying plane, complete actionable steps and stay motivated with insights, achievements, and reflection.
 
 ---
+
+### 🎮 Screenshots
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/06ecfc8b-3afb-4b3a-8f01-f0324898cf15" width="150"/>
@@ -261,6 +273,8 @@ Step into the role of the Thunder God and prove you’re still worthy of love an
 
 ---
 
+### 🎮 Screenshots
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/64281d92-c8a6-437e-be9b-4c76822381a3" width="200"/>
   <img src="https://github.com/user-attachments/assets/e9fcc684-3b90-4c59-a4d8-369e9ca7e1d3" width="200"/>
@@ -342,6 +356,8 @@ Stay focused, earn rewards and hatch your way to success.
 
 ---
 
+### 🎮 Screenshots
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6f9eb067-7cbb-4f0d-942b-6ae655a5424e" width="200"/>
   <img src="https://github.com/user-attachments/assets/c48e14a2-c91e-42d7-83fa-85dc3efe86a8" width="200"/>
@@ -368,6 +384,8 @@ Stay focused, earn rewards and hatch your way to success.
 From local matches to competitive leagues, the app lets you record stats, track performance trends and grow season by season.
 
 ---
+
+### 🎮 Screenshots
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d49b165d-d6ed-4dfe-86f5-ee6439e1f974" width="200"/>
