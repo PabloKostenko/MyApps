@@ -94,7 +94,6 @@ Track egg production, monitor chicken health, and keep your flock well-documente
 <div align="center">
   <img src="https://github.com/user-attachments/assets/33336fe7-6c0b-4aec-8a05-2e112373ab1b" width="150"/>
   <img src="https://github.com/user-attachments/assets/cd69ec5b-3713-422a-9d1f-be404836e533" width="150"/>
-  <img src="https://github.com/user-attachments/assets/e6f1da7c-bde5-479d-89a5-ac3bde1139d9" width="150"/>
   <img src="https://github.com/user-attachments/assets/408d29c1-778b-40ec-be34-d4e7485243ae" width="150"/>
   <img src="https://github.com/user-attachments/assets/f34b3e95-5a96-4842-a251-766c9711b040" width="150"/>
   <img src="https://github.com/user-attachments/assets/076244d9-337b-460f-a724-daa8f5a1f5b3" width="150"/>
@@ -151,7 +150,6 @@ Track live match stats, learn the rules of the game and test your knowledge — 
   <img src="https://github.com/user-attachments/assets/5b020142-596e-497c-9fd3-7b308017c0c9" width="150"/>
   <img src="https://github.com/user-attachments/assets/e5f00a72-813f-4c26-998a-0a56758b068c" width="150"/>
   <img src="https://github.com/user-attachments/assets/75b13e86-86eb-4846-a7eb-ef2da5477ec6" width="150"/>
-  <img src="https://github.com/user-attachments/assets/838fe230-4a87-4bda-b322-a318f04173b6" width="150"/>
 </div>
 
 ---
