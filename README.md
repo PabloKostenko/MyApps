@@ -359,10 +359,10 @@ Stay focused, earn rewards and hatch your way to success.
 ### 🎮 Screenshots
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/ae50b25d-5138-40ce-aff3-f15d9c5d6722" width="200"/>
   <img src="https://github.com/user-attachments/assets/6f9eb067-7cbb-4f0d-942b-6ae655a5424e" width="200"/>
   <img src="https://github.com/user-attachments/assets/c48e14a2-c91e-42d7-83fa-85dc3efe86a8" width="200"/>
   <img src="https://github.com/user-attachments/assets/ee5c38b7-39e1-4beb-b6a6-ab4d9feb8259" width="200"/>
-  <img src="https://github.com/user-attachments/assets/ae50b25d-5138-40ce-aff3-f15d9c5d6722" width="200"/>
 
 </div>
 
