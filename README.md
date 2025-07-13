@@ -487,4 +487,4 @@ Choose how you want your egg cooked — soft, medium or hard-boiled and enjoy a 
 iOS Developer
 
 Let’s connect:
-📫 [Linktr](https://linktr.ee/pavlokostenko)  • [LinkedIn](https://www.linkedin.com/in/pavlokostenko/) • [Telegram](https://t.me/pavloskostenko)
+📫 [Linktree](https://linktr.ee/pavlokostenko)  • [LinkedIn](https://www.linkedin.com/in/pavlokostenko/) • [Telegram](https://t.me/pavloskostenko)
