@@ -5,17 +5,6 @@ Your sanctuary lies in ruins and Olympus is no longer yours. But your legacy isn
 
 ---
 
-### 🎮 Screenshots
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6cf98929-5a8f-4b63-9422-2b16aa5da782" width="200"/>
-  <img src="https://github.com/user-attachments/assets/c780adaa-33f9-4e73-a735-6f03a80d0812" width="200"/>
-  <img src="https://github.com/user-attachments/assets/8b9922c7-721f-40ab-9903-674abe32333b" width="200"/>
-  <img src="https://github.com/user-attachments/assets/63826774-6584-4df7-9206-7d25128ff3b4" width="200"/>
-</div>
-
----
-
 ### ✨ Features
 
 - 🔥 Narrative-driven survival mechanics
@@ -34,10 +23,36 @@ Your sanctuary lies in ruins and Olympus is no longer yours. But your legacy isn
 
 ---
 
+
+### 🎮 Screenshots
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6cf98929-5a8f-4b63-9422-2b16aa5da782" width="200"/>
+  <img src="https://github.com/user-attachments/assets/c780adaa-33f9-4e73-a735-6f03a80d0812" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8b9922c7-721f-40ab-9903-674abe32333b" width="200"/>
+  <img src="https://github.com/user-attachments/assets/63826774-6584-4df7-9206-7d25128ff3b4" width="200"/>
+</div>
+
+---
+
+---
+
+
+
 # Food Balls
 
 **Food Balls** is a playful and visual food tracker where every meal becomes a colorful ball dropping into a jar — 🟢 healthy, 🟡 neutral or 🔴 unhealthy.
 Forget calories and complicated charts. Food Balls helps you reflect on your eating habits without stress.
+
+---
+
+
+### ✨ Features
+
+- 🍽 Add meals with notes and categorize them visually
+- 📆 Swipe through your weekly food history with clear visual feedback
+- 🎨 Instantly see your dietary balance at a glance
+- 📊 Reflect on patterns without counting or restrictions
 
 ---
 
@@ -52,19 +67,22 @@ Forget calories and complicated charts. Food Balls helps you reflect on your eat
 
 ---
 
-### ✨ Features
-
-- 🍽 Add meals with notes and categorize them visually
-- 📆 Swipe through your weekly food history with clear visual feedback
-- 🎨 Instantly see your dietary balance at a glance
-- 📊 Reflect on patterns without counting or restrictions
-
 ---
+
 
 # Fluffy Road
 
 **Fluffy Road** is a fun and adaptive fitness app that adjusts to your daily mood and keeps you moving. 
 Each morning, you select how you feel and the app personalizes the experience with matching themes and ambient backgrounds.
+
+---
+
+### ✨ Features
+
+- 🗓 Visual calendar inspired by Duolingo to track active days and maintain workout streaks
+- 🏋️ Choose from built-in exercises or add your own to customize your fitness plan
+- 💧 Hydration tracker — set your water intake goal and log drinks throughout the day
+- 🎭 Dynamic visuals that match your selected mood, creating a motivating daily vibe
 
 ---
 
@@ -79,19 +97,25 @@ Each morning, you select how you feel and the app personalizes the experience wi
 
 ---
 
-### ✨ Features
-
-- 🗓 Visual calendar inspired by Duolingo to track active days and maintain workout streaks
-- 🏋️ Choose from built-in exercises or add your own to customize your fitness plan
-- 💧 Hydration tracker — set your water intake goal and log drinks throughout the day
-- 🎭 Dynamic visuals that match your selected mood, creating a motivating daily vibe
-
 ---
+
+
+
 
 # Farm Helper
 
 **Farm Helper** is a farm management app designed for poultry enthusiasts and small-scale chicken farmers.
 Track egg production, monitor chicken health, and keep your flock well-documented with ease and style.
+
+---
+
+### ✨ Features
+
+- 📊 View total chickens, today’s eggs and quick stats at a glance
+- 🐣 Track each chicken’s breed, age, vaccinations, productivity and notes
+- 📅 Visualize egg-laying stats on a monthly calendar
+- 🖼️ Browse daily photos of your chickens and their eggs
+- ➕ Add new chickens or egg records with full details and images
 
 ---
 
@@ -107,20 +131,23 @@ Track egg production, monitor chicken health, and keep your flock well-documente
 
 ---
 
-### ✨ Features
-
-- 📊 View total chickens, today’s eggs and quick stats at a glance
-- 🐣 Track each chicken’s breed, age, vaccinations, productivity and notes
-- 📅 Visualize egg-laying stats on a monthly calendar
-- 🖼️ Browse daily photos of your chickens and their eggs
-- ➕ Add new chickens or egg records with full details and images
-
 ---
+
 
 # Mood Flower
 
 **Mood Flower** is a beautifully crafted mood tracker where your week blooms like a flower. 
 Each petal represents a day, colored by your emotion and if you felt multiple moods, the petal becomes a gradient. In the center, a glowing orb, mixing the emotional tones of your week.
+
+---
+
+### ✨ Features
+
+- 🌸 Week-view flower where each petal reflects your daily mood
+- 📝 Add short notes and edit moods retroactively
+- 🌈 Gradient petals for days with multiple moods
+- 📊 Stats tab with colored orb, pie & bar charts, streak counter and Week/Month/All toggle
+- 🧠 Insights tab with mood history, emoji filters, detected patterns (e.g. “You feel sad on Mondays”) and AI-powered mood advice
 
 ---
 
@@ -135,20 +162,22 @@ Each petal represents a day, colored by your emotion and if you felt multiple mo
 
 ---
 
-### ✨ Features
-
-- 🌸 Week-view flower where each petal reflects your daily mood
-- 📝 Add short notes and edit moods retroactively
-- 🌈 Gradient petals for days with multiple moods
-- 📊 Stats tab with colored orb, pie & bar charts, streak counter and Week/Month/All toggle
-- 🧠 Insights tab with mood history, emoji filters, detected patterns (e.g. “You feel sad on Mondays”) and AI-powered mood advice
-
 ---
+
 
 # Cricket Mate
 
 **Cricket Mate** is a friendly scorekeeping and learning app for amateur cricket players.
 Track live match stats, learn the rules of the game and test your knowledge — all in one place.
+
+---
+
+### ✨ Features
+
+- 🏏 Create custom matches with teams, overs and player settings
+- 📘 Built-in interactive cricket guide covering rules, umpire signals and match formats
+- 📊 Real-time tracking of runs, wickets, overs and key events
+- ❓ Short quizzes after each section to reinforce knowledge
 
 ---
 
@@ -164,21 +193,26 @@ Track live match stats, learn the rules of the game and test your knowledge — 
 
 ---
 
-### ✨ Features
-
-- 🏏 Create custom matches with teams, overs and player settings
-- 📘 Built-in interactive cricket guide covering rules, umpire signals and match formats
-- 📊 Real-time tracking of runs, wickets, overs and key events
-- ❓ Short quizzes after each section to reinforce knowledge
-
 ---
+
 
 # Dream Pilot
 
 **Dream Pilot** is a personal goal tracker that helps you stay focused by turning your dreams into visual journeys. 
 Track your progress with a flying plane, complete actionable steps and stay motivated with insights, achievements, and reflection.
 
+
 ---
+
+### ✨ Features
+
+- 🛫 Animated airplane flying along a progress line as steps are completed
+- ✅ Task list to break big goals into small, manageable actions
+- 🏅 Achievements and badges for key milestones
+- 🧠 Reflective journal with auto-generated entries after task completion
+
+---
+
 
 ### 🎮 Screenshots
 
@@ -192,14 +226,8 @@ Track your progress with a flying plane, complete actionable steps and stay moti
 
 ---
 
-### ✨ Features
-
-- 🛫 Animated airplane flying along a progress line as steps are completed
-- ✅ Task list to break big goals into small, manageable actions
-- 🏅 Achievements and badges for key milestones
-- 🧠 Reflective journal with auto-generated entries after task completion
-
 ---
+
 
 # JumpBallFlick
 
@@ -207,6 +235,17 @@ Track your progress with a flying plane, complete actionable steps and stay moti
 You control a bouncing ball that continuously jumps upward, avoiding obstacles, collecting bonuses, and flicking your way through dynamic platforms.
 
 ---
+
+### ✨ Features
+
+- ⚡️ Simple yet addictive gameplay
+- 🎯 Flick mechanics for extra height and movement control
+- 🔄 Randomly generated platforms and obstacles
+- ⚠️ Includes moving, breaking, and teleporting platforms
+- 📱 Fully developed with **SpriteKit**, no external engines
+
+---
+
 
 ### 🎮 Screenshots
 
@@ -228,20 +267,23 @@ You control a bouncing ball that continuously jumps upward, avoiding obstacles, 
 
 ---
 
-### ✨ Features
-
-- ⚡️ Simple yet addictive gameplay
-- 🎯 Flick mechanics for extra height and movement control
-- 🔄 Randomly generated platforms and obstacles
-- ⚠️ Includes moving, breaking, and teleporting platforms
-- 📱 Fully developed with **SpriteKit**, no external engines
-
 ---
+
 
 # Discover and Travel
 
 **Discover and Travel** is an interactive travel discovery app that turns decision-making into an adventure.
 Spin the globe, land on a random country and uncover unique insights, culinary treasures and unforgettable experiences all in a beautifully crafted interface.
+
+---
+
+### ✨ Features
+
+- 🌍 Interactive 3D globe for randomized country selection
+- 🍜 Curated info on local cuisine, travel tips, time zones & weather
+- 📖 Detailed country profiles with landmarks, must-see places & culture
+- 🗂️ Favorites list to bookmark dream destinations
+- 👤 User profile with avatar, country history & preferences
 
 ---
 
@@ -256,20 +298,24 @@ Spin the globe, land on a random country and uncover unique insights, culinary t
 
 ---
 
-### ✨ Features
-
-- 🌍 Interactive 3D globe for randomized country selection
-- 🍜 Curated info on local cuisine, travel tips, time zones & weather
-- 📖 Detailed country profiles with landmarks, must-see places & culture
-- 🗂️ Favorites list to bookmark dream destinations
-- 👤 User profile with avatar, country history & preferences
-
 ---
 
 # Thunder Love
 
 **Thunder Love** is a mythological romance-sim where gods and mortals mingle in a quest for affection, prestige and thunderous charm.
 Step into the role of the Thunder God and prove you’re still worthy of love and Olympus.
+
+---
+
+
+### ✨ Features
+
+- ⚡️ Unleash Divine Charm by training charisma, strength and intellect
+- 🧠 Answer mortal trivia in fast-paced Wisdom Challenges
+- 💎 Collect coins and diamonds to boost your divine status
+- 🎨 Rise in power and prestige as you master love and myth
+- ❤️ Woo legendary figures like Aphrodite and Hera
+
 
 ---
 
@@ -285,21 +331,23 @@ Step into the role of the Thunder God and prove you’re still worthy of love an
 
 ---
 
-### ✨ Features
-
-- ⚡️ Unleash Divine Charm by training charisma, strength and intellect
-- 🧠 Answer mortal trivia in fast-paced Wisdom Challenges
-- 💎 Collect coins and diamonds to boost your divine status
-- 🎨 Rise in power and prestige as you master love and myth
-- ❤️ Woo legendary figures like Aphrodite and Hera
-
-
 ---
+
 
 # Love Ideas
 
 **Love Ideas** is a playful and meaningful idea generator for couples combining surprise, interaction and shared decision-making in one elegant app.
 Whether you’re planning a weekend together or just want to spark spontaneity, LoveIdeas helps couples find the perfect activity together.
+
+---
+
+### ✨ Features
+
+- 🎲 One-tap random idea generator with playful animations
+- ❤️ Tinder-style swipe mechanic for synchronized couple matching
+- 📂 History tab with past matches and saved favorites
+- ✍️ Add your own ideas to personalize the experience
+- 🔄 Real-time sync between both partners
 
 ---
 
@@ -314,19 +362,19 @@ Whether you’re planning a weekend together or just want to spark spontaneity, 
 
 ---
 
-### ✨ Features
-
-- 🎲 One-tap random idea generator with playful animations
-- ❤️ Tinder-style swipe mechanic for synchronized couple matching
-- 📂 History tab with past matches and saved favorites
-- ✍️ Add your own ideas to personalize the experience
-- 🔄 Real-time sync between both partners
-
 ---
 
 # Shoot and Goal
 
 **Shoot and goal** transforms your to-do list into an action-packed experience. Instead of just checking boxes, you aim, shoot and hit your goals one task at a time. Designed to boost focus and destroy procrastination, this productivity app turns your daily grind into a satisfying game.
+
+---
+
+### ✨ Features
+
+- 🎯 Create tasks and watch them become literal targets on your shooting board
+- 📈 Visualize productivity streaks, completion ratios and weekly focus stats
+- 🏆 Unlock new aim skins, background themes, and achievement trophies as you progress
 
 ---
 
@@ -341,18 +389,21 @@ Whether you’re planning a weekend together or just want to spark spontaneity, 
 
 ---
 
-### ✨ Features
-
-- 🎯 Create tasks and watch them become literal targets on your shooting board
-- 📈 Visualize productivity streaks, completion ratios and weekly focus stats
-- 🏆 Unlock new aim skins, background themes, and achievement trophies as you progress
-
 ---
 
 # Egg Tracker 
 
 **Egg Tracker** is a productivity timer inspired by the Pomodoro technique, gamified with collectible chickens and eggs. 
 Stay focused, earn rewards and hatch your way to success.
+
+---
+
+### ✨ Features
+
+- ⏳ Focus sessions = rewards — complete timed work sessions to earn coins
+- 🥚 Collect and hatch eggs as you progress through your productivity journey
+- 🐔 Unlock unique chickens with different styles and perks
+- 🎯 Special quests and bonus tasks for extra rewards and motivation
 
 ---
 
@@ -368,13 +419,6 @@ Stay focused, earn rewards and hatch your way to success.
 
 ---
 
-### ✨ Features
-
-- ⏳ Focus sessions = rewards — complete timed work sessions to earn coins
-- 🥚 Collect and hatch eggs as you progress through your productivity journey
-- 🐔 Unlock unique chickens with different styles and perks
-- 🎯 Special quests and bonus tasks for extra rewards and motivation
-
 ---
 
 
@@ -382,6 +426,15 @@ Stay focused, earn rewards and hatch your way to success.
 
 **Football Beast** is your personal football career tracker, built for players who want to take control of their game. 
 From local matches to competitive leagues, the app lets you record stats, track performance trends and grow season by season.
+
+---
+
+### ✨ Features
+
+- ⚽ Create your football profile with position, club history and match role
+- 📅 Log matches with goals, assists, minutes played, cards and match ratings
+- 📊 View charts and season summaries for progress tracking
+- 🏆 Unlock badges and view motivational quotes to stay inspired
 
 ---
 
@@ -396,13 +449,6 @@ From local matches to competitive leagues, the app lets you record stats, track 
 
 ---
 
-### ✨ Features
-
-- ⚽ Create your football profile with position, club history and match role
-- 📅 Log matches with goals, assists, minutes played, cards and match ratings
-- 📊 View charts and season summaries for progress tracking
-- 🏆 Unlock badges and view motivational quotes to stay inspired
-
 ---
 
 # Egg Timer
@@ -411,6 +457,16 @@ From local matches to competitive leagues, the app lets you record stats, track 
 Choose how you want your egg cooked — soft, medium or hard-boiled and enjoy a quirky mini-game while it “boils”.
 
 ---
+
+### ✨ Features
+
+- 🔥 Timer for soft, medium and hard-boiled eggs
+- 🧱 Absurd philosophical mini-game
+- 💬 Final “dish of the day” based on your answers
+- ⛪️ Playful, animated design
+
+---
+
 
 ### 🎮 Screenshots
 
@@ -422,13 +478,6 @@ Choose how you want your egg cooked — soft, medium or hard-boiled and enjoy a 
 </div>
 
 ---
-
-### ✨ Features
-
-- 🔥 Timer for soft, medium and hard-boiled eggs
-- 🧱 Absurd philosophical mini-game
-- 💬 Final “dish of the day” based on your answers
-- ⛪️ Playful, animated design
 
 ---
 
